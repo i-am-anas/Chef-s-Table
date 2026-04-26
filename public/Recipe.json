@@ -1,0 +1,66 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Bolognese",
+        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "short_description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredients": [
+            "500 g ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "400 g tomato sauce",
+            "200 g spaghetti pasta",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": "600 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Caesar Salad",
+        "image": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg",
+        "short_description": "Fresh salad with grilled chicken, romaine lettuce, and Caesar dressing.",
+        "ingredients": [
+            "200 g grilled chicken breast",
+            "100 g romaine lettuce",
+            "50 g parmesan cheese",
+            "100 g croutons",
+            "50 ml Caesar dressing",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": "600 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir Fry",
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+        "short_description": "Quick and healthy stir-fried vegetables with soy sauce.",
+        "ingredients": [
+            "150 g broccoli",
+            "100 g carrots",
+            "100 g bell peppers",
+            "2 tbsp soy sauce",
+            "1 tbsp garlic, minced",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Grilled Salmon",
+        "image": "https://images.pexels.com/photos/3296275/pexels-photo-3296275.jpeg",
+        "short_description": "Delicious grilled salmon with herbs and lemon.",
+        "ingredients": [
+            "200 g salmon fillet",
+            "1 tbsp olive oil",
+            "1 lemon, sliced",
+            "1 tsp garlic, minced",
+            "1 tsp black pepper",
+            "1 tsp salt"
+        ],
+        "preparing_time": "25 minutes",
+        "calories": "450 calories"
+    }
+]
