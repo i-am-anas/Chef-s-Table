@@ -3,7 +3,7 @@
 A modern, responsive recipe web application built with HTML, CSS, JavaScript, and React.
 This project showcases a clean UI for exploring recipes, managing cooking items, and tracking preparation details.
 
-🔗 Live Demo: #https://chefs-table23.netlify.app/
+🔗 Live Demo: https://chefs-table23.netlify.app/
 
 🚀 Features
 📱 Fully responsive design (mobile, tablet, desktop)
